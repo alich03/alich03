@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ALi Hasnain</h1>
+<h1 align="center">Hi 👋, I'm Ali Hasnain</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alich03&label=Profile%20views&color=0e75b6&style=flat" alt="alich03" /> </p>
