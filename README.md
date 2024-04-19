@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ali-hasnain-ai/](https://www.linkedin.com/in/ali-hasnain-ai/)
 
-- ⚡ Fun fact **I can learn very Fast**
+- ⚡ Fun fact **I am very Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
